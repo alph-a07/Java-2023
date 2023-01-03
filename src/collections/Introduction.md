@@ -13,6 +13,6 @@ A framework is a set of **classes** and **interfaces** which provide a ready-mad
 	- `java.util.Collection` - Collection interface
 	- `java.util.Map` - Map interface
 
-![](.Introduction_images/27dc3e4d.png)
+![](.Introduction_images/92ee3127.png)
 
 [ Collection API Documentation](https://docs.oracle.com/javase/8/docs/api/java/util/Collection.html)
