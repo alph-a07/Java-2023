@@ -1,4 +1,4 @@
-package Remaster;
+package remaster;
 
 public class ThisvsSuper {
 

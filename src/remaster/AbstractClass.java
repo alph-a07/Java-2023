@@ -1,4 +1,4 @@
-package Remaster;
+package remaster;
 
 abstract class AbstractClass {
     void method1() {
@@ -26,5 +26,6 @@ class Main extends AbstractClass {
         System.out.println("Overriding non-abstract methods is not mandatory.");
     }
 }
+
 
 

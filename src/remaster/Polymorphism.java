@@ -1,4 +1,4 @@
-package Remaster;
+package remaster;
 
 public class Polymorphism {
     public static void main(String[] args) {

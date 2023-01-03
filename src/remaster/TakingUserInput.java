@@ -1,4 +1,4 @@
-package Remaster;
+package remaster;
 
 import java.time.LocalDateTime;
 import java.util.Scanner;

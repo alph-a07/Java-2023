@@ -1,4 +1,4 @@
-package Remaster;
+package remaster;
 
 public class InstanceVsReference {
     public static void main(String[] args) {

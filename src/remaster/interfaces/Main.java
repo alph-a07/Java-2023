@@ -1,4 +1,4 @@
-package Remaster.interfaces;
+package remaster.interfaces;
 
 public class Main {
     public static void main(String[] args) {
