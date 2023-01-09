@@ -21,3 +21,7 @@
 
 Errors are serious problems which a reasonable application should not try to catch, while exceptions are conditions that
 might be caught.
+
+### Exception hierarchy
+
+![](../remaster/.Exceptions_images/6bab09b2.png)
